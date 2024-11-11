@@ -1,4 +1,4 @@
-// Sample speaker data
+
 const speakers = [
     {
       id: 1,
